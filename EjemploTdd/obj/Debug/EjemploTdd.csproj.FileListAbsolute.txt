@@ -1,0 +1,9 @@
+C:\Users\ricar\source\repos\EjemploTdd\EjemploTdd\bin\Debug\EjemploTdd.exe.config
+C:\Users\ricar\source\repos\EjemploTdd\EjemploTdd\bin\Debug\EjemploTdd.exe
+C:\Users\ricar\source\repos\EjemploTdd\EjemploTdd\bin\Debug\EjemploTdd.pdb
+C:\Users\ricar\source\repos\EjemploTdd\EjemploTdd\obj\Debug\EjemploTdd.csprojResolveAssemblyReference.cache
+C:\Users\ricar\source\repos\EjemploTdd\EjemploTdd\obj\Debug\EjemploTdd.Properties.Resources.resources
+C:\Users\ricar\source\repos\EjemploTdd\EjemploTdd\obj\Debug\EjemploTdd.csproj.GenerateResource.Cache
+C:\Users\ricar\source\repos\EjemploTdd\EjemploTdd\obj\Debug\EjemploTdd.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\EjemploTdd\EjemploTdd\obj\Debug\EjemploTdd.exe
+C:\Users\ricar\source\repos\EjemploTdd\EjemploTdd\obj\Debug\EjemploTdd.pdb

@@ -1,0 +1,6 @@
+C:\Users\ricar\source\repos\EjemploTdd\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\ricar\source\repos\EjemploTdd\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ricar\source\repos\EjemploTdd\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\EjemploTdd\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\ricar\source\repos\EjemploTdd\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\ricar\source\repos\EjemploTdd\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
